@@ -1,0 +1,6 @@
+Dennis Ritchie
+B
+c
+untyped
+ALGOL68
+BCPL

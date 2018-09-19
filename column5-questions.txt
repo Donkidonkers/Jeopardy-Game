@@ -1,0 +1,6 @@
+What is the screen output of: for(i=10; i>=0; i-=2) printf("*");
+Given x is 2. What is the value of x after the loop: while (x<10) x*=2;
+Braces {} are mandatory for BOTH while and do-while loops
+Given x is 1. What is the screen output of: do { x++; printf("%d",x); } while(x<=0);
+What is the screen output of:     for(i=1; i<=3; i++)   for(j=i;j>0; j--) printf("%d", i);
+Show the screen output. Given x=2; while (1) { printf("*"); x++; if (x==5) break; } 
